@@ -1,4 +1,4 @@
-<php>
+<html>
 <form action="action_page.php" method="post">
   <div class="imgcontainer">
     <img src="img_avatar2.png" alt="Avatar" class="avatar">
@@ -22,4 +22,4 @@
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
 </form>
-</php>
+</html>
